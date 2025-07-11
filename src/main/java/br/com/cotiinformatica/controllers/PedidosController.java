@@ -1,4 +1,4 @@
-package br.com.cotiinformatica.controller;
+package br.com.cotiinformatica.controllers;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.DeleteMapping;
